@@ -11,5 +11,5 @@ let g:indentLine_defaultGroup = 'SpecialKey'
 let g:indentLine_char_list = ['|', '¦', '┆', '┊']
 
 " row numbers, and excluding them from mouse selection
-set nu rnu
-set mouse
+" set nu rnu
+set mouse=a
